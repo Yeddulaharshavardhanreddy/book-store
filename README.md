@@ -11,8 +11,7 @@ This is a full-stack web application for a book store built using the MERN stack
 
 ## Installation
 1. Clone the repository to your local machine:
-    ```https://github.com/Yeddulaharshavardhanreddy/book-store.git
-    ```
+    ```https://github.com/Yeddulaharshavardhanreddy/book-store.git ```
 
 2. Navigate to the project directory:
     ```
